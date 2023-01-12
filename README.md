@@ -1,4 +1,4 @@
-[12/01, 12:37 pm] SAHASGUDITECH: class Newspaper:
+ class Newspaper:
     def __init__(self, name, daily_price):
         self.name = name
         self.daily_price = daily_price
